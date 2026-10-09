@@ -4,7 +4,8 @@
 
 | File | What it is |
 |---|---|
-| `EC1745_Notes_Sheet.pdf` / `.docx` | The one-page, two-sided notes sheet. All text is 11 pt and single-spaced, per the exam rule. Write your name on the top line. Print double-sided. The `.docx` is editable if you want to add anything. |
+| `EC1745_Basics_Guide.pdf` / `.docx` | Start here. A 10-page guide that assumes no background. It explains each topic in plain English, shows exactly what to type in Excel, and works a real practice-exam question for each. |
+| `EC1745_Notes_Sheet.pdf` / `.docx` | The one-page, two-sided notes sheet to bring to the exam. Side 1 has fill-in-the-cell templates for the income statement (revenue down to net income), balance sheet and cash flow statement, plus ratios. Side 2 has time value of money, bonds step by step, and duration. All text is 11 pt, the exam's minimum. Write your name on the top line and print double-sided. |
 | `EC1745_Practice_Exam_Answer_Keys.xlsx` | Worked answers to the Fall 2025 and Fall 2024 practice midterms, with live formulas. Column C of each tab shows the exact formula used. |
 | `EC1745_Mock_Midterm.pdf` / `.docx` | A new practice exam in the same style. It covers the topics your professor listed that the old exams don't (building statements from raw numbers, deriving cash flows, restructuring a commitment, bond exchange, building duration by hand). The answer list is on the last page. |
 | `EC1745_Mock_Midterm_ANSWER_KEY.xlsx` | Full formula answer key for the mock exam. |
@@ -28,7 +29,7 @@
 
 | Day | Do this |
 |---|---|
-| **Fri night** | Take the **2025 practice midterm** (Parts 2–4 only) from a blank workbook, with a 50-minute timer. Then compare with the answer key tabs `2025 P2/P3/P4`. |
+| **Fri night** | Read sections 0–1 of the basics guide. Then take the **2025 practice midterm** (Parts 2–4 only) from a blank workbook, with a 50-minute timer. Then compare with the answer key tabs `2025 P2/P3/P4`. |
 | **Sat** | Read **Ch. 2** (statements, ratios, DuPont) and **Ch. 4** (annuities, perpetuities, solving for rate and payment). Then take the **2024 practice midterm** (Parts 3–5) and check it. |
 | **Sun** | Read **Ch. 5** (APR/EAR, loans) and **Ch. 6** (bonds). Duration comes mostly from lecture, so use your class notes plus the duration tables in the keys. Take the **mock midterm** with a 70-minute timer and check it. |
 | **Mon** | Redo every question you missed, from a blank workbook, without looking. Swap made-up questions with a classmate, as your professor suggested. Print the notes sheet and add anything handwritten. |
