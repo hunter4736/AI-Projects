@@ -15,6 +15,7 @@ Every figure below drives a decision in the plan. Each was found through web sea
 | DIBC RPP-CM-26-02 covers titanium including sponge substitutes; quad charts were due September 17, 2026 | Funding route | [BWCO summary](https://www.bwcoconsulting.com/fod/dibc-critical-minerals-rpp-cm-26-02); then the DIBC portal itself |
 | OSC: $500M credit subsidy, about $100B of loan capacity | Funding route | [DoW release](https://www.war.gov/News/Releases/Release/Article/4270722/office-of-strategic-capital-announces-first-loan-through-dod-agreement-with-mp/) |
 | QLab spring 2027 deadline October 23, 2026 | Harvard plan | [Belfer Center](https://www.belfercenter.org/programs/intelligence-project/qlab) |
+| Tennessee industrial power at 6.74 cents/kWh against 8.62 nationally (the hosting file's path says 2016) | Moat, Phase 2 economics | [EIA table via Missouri Partnership](https://missouripartnership.com/wp-content/uploads/2016/08/Electricity-Price-Data-4.pdf); then EIA Electric Power Monthly table 5.6.B |
 | PIC: $75K and $25K per track; at most $750K of equity raised | Harvard plan, capital plan | [PIC](https://innovationlabs.harvard.edu/presidents-innovation-challenge), [eligibility](https://innovationlabs.harvard.edu/presidents-innovation-challenge/eligibility) |
 
 ## Open questions for interviews and calls
