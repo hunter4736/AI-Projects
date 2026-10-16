@@ -32,3 +32,6 @@ Every figure below drives a decision in the plan. Each was found through web sea
 10. What do NFPA 484 and the local fire marshal require for chip storage at the melt site?
 11. What does TIMET charge to toll-melt a trial heat, and how long is the wait?
 12. Which plate mills will roll outside slab, and on what terms?
+13. How many tons of titanium scrap did the US export in 2025, by country and grade? Pull HTS 8108.30 from USA Trade Online.
+14. What would a 1,000–2,000 t a year turnings cleaning line cost, and what does a processor charge to toll-clean turnings?
+15. How much working capital does a 3,500 t plant carry? The scrap study estimates $20–30M, which the capex range leaves out.
