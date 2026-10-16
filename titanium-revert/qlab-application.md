@@ -8,22 +8,22 @@ The United States no longer makes titanium sponge, the raw metal every titanium 
 
 The people who feel this are the program offices and primes building submarines, armor and aircraft, and the Defense Industrial Base Consortium, which in August asked for domestic titanium projects, including "sponge substitutes."
 
-Our approach starts with waste. A machine shop making a forged aerospace part can turn about 90% of the titanium it buys into chips. A cold hearth furnace can melt that scrap straight into new titanium slab without any sponge. We want to collect and certify US scrap, starting with Memphis implant makers and Huntsville-area defense shops, and melt it in Tennessee into slab for armor and naval plate. France's EcoTitanium has run a version of this since 2017. No US company sells hearth-melted slab from domestic scrap as its main business.
+Our approach starts with waste. A machine shop making a forged aerospace part can turn about 90% of the titanium it buys into chips. A cold hearth furnace can melt that scrap straight into new titanium slab without any sponge. We want to secure US scrap under contract, starting with Memphis implant makers and Huntsville-area defense shops, prove it with trial melts at an existing furnace, and then build our own US melt shop to make slab for armor and naval plate. France's EcoTitanium has run a version of this since 2017. No US company sells hearth-melted slab from domestic scrap as its main business.
 
 ## What have you done so far?
 
 So far this is research, not revenue. I have:
 
 - Built a market model of US titanium supply. It sizes the scrap feed to US melters at roughly $170M to $400M a year and US mill products at $2B to $7B.
-- Mapped who generates titanium scrap within 400 miles of Nashville, and the four US companies that already buy it: Perryman, Howmet, TIMET and IperionX.
-- Worked out the unit economics of collecting scrap and of a 3,500-ton-a-year melt shop.
+- Mapped where US titanium scrap is generated, starting with the Memphis implant and Huntsville defense clusters, and the four US companies that already buy it: Perryman, Howmet, TIMET and IperionX.
+- Worked out the unit economics of a 3,500-ton-a-year melt shop and the scrap feed it needs.
 - Mapped the funding paths: DIBC, IBAS, the Office of Strategic Capital and SBIR.
 - [Add any conversations you have already had: shops, melters, professors, investors.]
 
 The first 30 days:
 
 1. Make 20 calls to machine shops and implant makers in Memphis and Huntsville about scrap volume, alloy, current buyer and contract terms.
-2. Make 4 calls to the melters above about the specs and price they would pay for certified domestic scrap, plus one call to an armor plate buyer about hearth-melted slab.
+2. Make partner calls: TIMET on melting trial batches for us, Goldman Titanium on cleaning and certifying scrap, a plate mill on rolling our slab, and an armor plate buyer on specs and price.
 3. Ask Retech, ALD and Consarc for budgetary furnace quotes, and ask TIMET for a quote to melt one trial batch for us.
 4. Hold 15 conversations to recruit a cofounder who has run a cold hearth or VAR melt shop.
 
@@ -65,7 +65,7 @@ Here's the problem. The US made zero titanium sponge last year, the raw metal ev
 
 Meanwhile machine shops turn most of the titanium they buy into chips. A cold hearth furnace can melt those chips straight into new slab, with no sponge needed.
 
-We're starting by locking up scrap from implant makers in Memphis and defense shops in Huntsville, and we plan to melt it in Tennessee into slab for armor and naval plate.
+We're starting by locking up scrap from implant makers in Memphis and defense shops in Huntsville. We'll prove it with trial melts at an existing furnace, then build our own US plant to make slab for armor and naval plate.
 
 I'm applying to QLab for two things: a metallurgist cofounder, and introductions to the defense offices that buy and fund this. Thanks for watching.
 
