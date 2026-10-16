@@ -15,7 +15,7 @@ Every figure below drives a decision in the plan. Each was found through web sea
 | DIBC RPP-CM-26-02 covers titanium including sponge substitutes; quad charts were due September 17, 2026 | Funding route | [BWCO summary](https://www.bwcoconsulting.com/fod/dibc-critical-minerals-rpp-cm-26-02); then the DIBC portal itself |
 | OSC: $500M credit subsidy, about $100B of loan capacity | Funding route | [DoW release](https://www.war.gov/News/Releases/Release/Article/4270722/office-of-strategic-capital-announces-first-loan-through-dod-agreement-with-mp/) |
 | QLab spring 2027 deadline October 23, 2026 | Harvard plan | [Belfer Center](https://www.belfercenter.org/programs/intelligence-project/qlab) |
-| Tennessee industrial power at 6.74 cents/kWh against 8.62 nationally (the hosting file's path says 2016) | Moat, Phase 2 economics | [EIA table via Missouri Partnership](https://missouripartnership.com/wp-content/uploads/2016/08/Electricity-Price-Data-4.pdf); then EIA Electric Power Monthly table 5.6.B |
+| Industrial power prices in candidate states, such as Tennessee at 6.74 cents/kWh against 8.62 nationally (the hosting file's path says 2016) | Site study, melt shop economics | [EIA table via Missouri Partnership](https://missouripartnership.com/wp-content/uploads/2016/08/Electricity-Price-Data-4.pdf); then EIA Electric Power Monthly table 5.6.B |
 | PIC: $75K and $25K per track; at most $750K of equity raised | Harvard plan, capital plan | [PIC](https://innovationlabs.harvard.edu/presidents-innovation-challenge), [eligibility](https://innovationlabs.harvard.edu/presidents-innovation-challenge/eligibility) |
 
 ## Open questions for interviews and calls
@@ -28,5 +28,7 @@ Every figure below drives a decision in the plan. Each was found through web sea
 6. Will DIBC run another titanium round, and what does membership through Advanced Technology International cost?
 7. Did Perryman finish its expansion to 42M lb a year? Is American Titanium Metal's North Carolina campus under construction?
 8. What would a 3,500 t a year plasma hearth plus VAR cost in 2027 dollars? Ask Retech, ALD and Consarc for budgetary quotes.
-9. Can a Tennessee melt site get TVA direct-serve power, and at what load?
-10. What do NFPA 484 and the local fire marshal require for chip storage at a Tennessee yard?
+9. Which candidate sites in Tennessee, western Pennsylvania and eastern Ohio can supply a multi-megawatt furnace load, and at what rate?
+10. What do NFPA 484 and the local fire marshal require for chip storage at the melt site?
+11. What does TIMET charge to toll-melt a trial heat, and how long is the wait?
+12. Which plate mills will roll outside slab, and on what terms?
