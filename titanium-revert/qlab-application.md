@@ -4,11 +4,13 @@ Draft answers. Replace every [bracket] with your own facts before submitting.
 
 ## What problem do you want to solve, and for whom?
 
-The United States no longer makes titanium sponge, the raw metal every titanium part starts from. In 2025 it made none and imported a record 44,000 tons, mostly from Japan, plus 32,000 tons of titanium scrap. Titanium in defense aircraft, ships, missiles and vehicles has to be melted in the US or an allied country, and the few qualified US melters are booked. ATI told investors in August that premium titanium now takes about 20 months.
+Every American fighter jet, submarine and missile is built from a metal the United States can no longer make. Titanium starts as sponge, the raw metal that mills melt into ingot. The US made none in 2025. It imported a record 44,000 tons, and Japan supplied 73% of it. China makes about 70% of the world's sponge. If a crisis in the Pacific cut off Japan, the US would lose most of its supply of new titanium, and the country it would be facing would hold most of the rest.
 
-The people who feel this are the program offices and primes building submarines, armor and aircraft, and the Defense Industrial Base Consortium, which in August asked for domestic titanium projects, including "sponge substitutes."
+The people who carry this risk are the Navy, which awarded about $76.6 billion for 14 submarines in July, and the shipyards that build them, General Dynamics Electric Boat and HII Newport News Shipbuilding. So do the Army's armored vehicle builders and the F-35 supply chain. The Pentagon already sees it. In August its Defense Industrial Base Consortium asked for projects to make domestic titanium, including "sponge substitutes." Builders feel it today as waiting time. ATI, one of the largest US producers, quotes about 20 months for premium titanium.
 
-Our approach starts with waste. A machine shop making a forged aerospace part can turn about 90% of the titanium it buys into chips. A cold hearth furnace can melt that scrap straight into new titanium slab without any sponge. We want to secure US scrap under contract, starting with Memphis implant makers and Huntsville-area defense shops, prove it with trial melts at an existing furnace, and then build our own US melt shop to make slab for armor and naval plate. France's EcoTitanium has run a version of this since 2017. No US company sells hearth-melted slab from domestic scrap as its main business.
+The one source of new titanium the US still controls is its own scrap. A machine shop making a forged aerospace part turns about 90% of the titanium it buys into chips and offcuts. Some of that leaves the country, and some is downgraded into steel. A cold hearth furnace can melt that scrap straight into new titanium slab, with no sponge needed.
+
+Our approach has three steps. First, lock up American scrap under contract, starting with implant makers in Memphis and defense shops in Huntsville. Second, prove the metal with trial melts at an existing furnace. Third, build a US melt shop that turns that scrap into slab for armor and naval plate, topping up with allied sponge when scrap runs short. France has run a plant like this since 2017. No US company sells hearth-melted slab made from domestic scrap as its main business.
 
 ## What have you done so far?
 
