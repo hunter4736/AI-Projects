@@ -12,7 +12,7 @@ So far it's research. I've mapped where US titanium scrap is generated, who buys
 
 ## Why is your team the right one to work on this?
 
-Right now the team is me, a Harvard junior studying [concentration]. I'm not a metallurgist and won't pretend to be. I bring the homework most people skip. I know where every pound of US titanium comes from, what it costs at each step, who controls the scrap, and why the big producers haven't built this. [One line of experience only you can claim.] My first job is recruiting a cofounder who has run a titanium melt shop, and QLab is one of the best places to find them.
+I spent nearly eight years as a Navy corpsman, trained alongside SEALs, Marine Recon and Pararescue, and led 20-plus corpsmen as Leading Petty Officer. I know who depends on this supply chain. Now I study economics at Harvard and work as a private equity analyst at Minds Capital, where I've screened 70+ lower-middle-market companies and rebuilt their earnings and LBO models. Those are the skills to finance a plant and to win over the small-shop owners who control the scrap. The gap is metallurgy, so my first hire is a cofounder who has run a melt shop.
 
 ## What kinds of problems do you want to work on?
 
